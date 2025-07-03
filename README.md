@@ -1,0 +1,1 @@
+six datasets are included: the CATMoS_LD50, Inhibitor_1368, PubChem_4504, PubChem_1336971, PubChem_449994, and New_generated_based_on_different_scaffold dataset in paper "AI-driven discovery of high-performance corrosion inhibitors using a BERT-GPT framework for molecular generation". 
