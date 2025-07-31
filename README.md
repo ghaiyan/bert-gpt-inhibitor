@@ -11,7 +11,9 @@ six datasets are included: the CATMoS_LD50, Inhibitor_1368, PubChem_4504, PubChe
 2) Predict IE and LD50:
  
 <img width="865" height="502" alt="image" src="https://github.com/user-attachments/assets/0e83c5ff-e455-49e0-959a-fdca10796a39" />
-## 使用方法
+
+### 使用方法
+
 1. 安装依赖：
 ```
 conda create -n chem_assistant python=3.10
@@ -23,9 +25,3 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
-3. 分子生成基于 Chemformer，性能预测基于 ChemProp 训练模型。
-
-## 注意事项
-- 请放置训练好的 ChemProp 模型至 models/chemprop_model/
-- 默认使用 "seyonec/Chemformer" 模型（来自 Huggingface）
