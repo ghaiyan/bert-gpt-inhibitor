@@ -1,7 +1,7 @@
 six datasets are included: the CATMoS_LD50, Inhibitor_1368, PubChem_4504, PubChem_1336971, PubChem_449994, and New_generated_based_on_different_scaffold dataset in paper "AI-driven discovery of high-performance corrosion inhibitors using a BERT-GPT framework for molecular generation". 
 
 ## run the web service for generating and predicting, recommending corrosion inhibitors.
-### Download chem_mol__assistant.zip
+### Download chem_mol__assistant.zip from https://drive.google.com/file/d/18JUM-SLPhNSh2JQ3SQHk9T67JUlY6IEd/view?usp=sharing 
 # 化学分子生成科研助手
 1) generate new molecules and predict IE and LD50:
  <img width="831" height="329" alt="image" src="https://github.com/user-attachments/assets/53231929-678b-4fdb-8f30-47fd8ae79784" />
