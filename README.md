@@ -23,5 +23,5 @@ pip install -r requirements.txt
 
 2. 启动应用：
 ```
-streamlit run app.py
+streamlit run app_deepseek.py
 ```
